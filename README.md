@@ -1,8 +1,8 @@
-<h2 align="left">Hello 🙂! My name is Justin and I'm a full-stack software engineer from Texas.</h2>
+<h2 align="left">Hello 🙂! My name is Justin and I'm a full-stack software engineer.</h2>
 
 ###
 
-<p align="left">8+ years of FinTech experience, and 6 years of military experience. Looking to create exciting solutions, enhance user experience, and eager to learn new technologies.</p>
+<p align="left">8+ years in FinTech, and 6 years of military experience. Passionate about learning new technologies and eager to bring innovative solutions to the industry. Open to relocation, and committed to continuous learning and professional growth.</p>
 
 ###
 
