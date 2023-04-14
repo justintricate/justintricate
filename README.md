@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">8+ years in FinTech, and 6 years of military experience. Passionate about learning new technologies and eager to bring innovative solutions to the industry. Open to relocation, and committed to continuous learning and professional growth.</p>
+<p align="left">React/JS/TS software engineer with a passion for accessibility. Army veteran, pizza enjoyer, and excited for the next adventure in life. 8+ years in FinTech, and 6 years of military experience. Texas Tech alumni (wreck 'em!) and fan of cute cats.
+
+If you're interested in connecting or learning more about my experience and skills, please feel free to message me. I love to chat!</p>
 
 ###
 
@@ -14,6 +16,8 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+
 
 ###
 
@@ -35,6 +39,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/justintricate/justintricate/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<div align="center"><img src="https://www.codewars.com/users/justintricate/badges/large"></div>
+
+###
+<div align="center">
+<img src="https://raw.githubusercontent.com/justintricate/justintricate/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /></div>
 
 
