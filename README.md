@@ -33,9 +33,3 @@ If you're interested in connecting or learning more about my experience and skil
 ###
 
 <div align="center"><img src="https://www.codewars.com/users/justintricate/badges/large"></div>
-
-###
-<div align="center">
-<img src="https://raw.githubusercontent.com/justintricate/justintricate/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /></div>
-
-
