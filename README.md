@@ -1,8 +1,8 @@
-<h2 align="left">Hello 🙂! My name is Justin and I'm a data analyst.</h2>
+<h2 align="left">Hello 🙂! My name is Justin.</h2>
 
 ###
 
-<p align="left">Experienced data analyst with a passion for accessibility. Army veteran, pizza enjoyer, and excited for the next adventure in life. Texas Tech alumni (wreck 'em!) and fan of cute cats.
+<p align="left">Passion for accessibility. Army veteran, pizza enjoyer, and excited for the next adventure in life. Texas Tech alumni (wreck 'em!) and fan of cute cats.
 
 If you're interested in connecting or learning more about my experience and skills, please feel free to message me. I love to chat!What </p>
 
